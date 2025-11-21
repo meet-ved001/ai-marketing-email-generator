@@ -71,6 +71,17 @@ http://127.0.0.1:8000/docs
 
 ## Screenshots
 *You can add screenshots of the API in action here.*
+1. Input to generate different subjects for an email
+   <img width="1656" height="860" alt="image" src="https://github.com/user-attachments/assets/d6717145-fa2c-4ff5-ae3a-16b7c0a8f4e2" />
+   
+2. Output for various Subjects
+    <img width="1670" height="588" alt="image" src="https://github.com/user-attachments/assets/a48e2b90-14b5-407c-b9d6-e341d37fa960" />
+    
+3. Input to generate an email
+   <img width="1443" height="727" alt="image" src="https://github.com/user-attachments/assets/239a81bd-bbf0-4860-b13e-78c9efa6ea8d" />
+   
+4. Output of the generated email
+   <img width="1576" height="633" alt="image" src="https://github.com/user-attachments/assets/127a96da-d7ef-447c-85de-ba2602ee4690" />
 
 Example:
 ```
