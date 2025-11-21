@@ -83,6 +83,13 @@ http://127.0.0.1:8000/docs
 4. Output of the generated email
    <img width="1576" height="633" alt="image" src="https://github.com/user-attachments/assets/127a96da-d7ef-447c-85de-ba2602ee4690" />
 
+5. Data stored in SQLyog
+   <img width="1704" height="751" alt="image" src="https://github.com/user-attachments/assets/c372f5f2-93d8-4b6c-8967-60573aa158d2" />
+
+   <img width="827" height="443" alt="image" src="https://github.com/user-attachments/assets/2960d317-4d57-4044-b88e-3bf7a8d19bfc" />
+
+
+
 Example:
 ```
 curl -X POST http://127.0.0.1:8000/generate-subject-lines -H 'Content-Type: application/json' -d '{"product_name": "GlowMax Serum", "product_description": "Vitamin C serum", "audience": "women 22-40", "tone": "friendly", "goal": "increase signups"}'
